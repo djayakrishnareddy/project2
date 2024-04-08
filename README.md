@@ -1,4 +1,4 @@
 # project1
-sampple demo
+sample demo
  
 this project was created by system
